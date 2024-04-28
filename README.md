@@ -1,8 +1,10 @@
 # fat-cat
-flash driver sorting &amp; catalog
+
+sort & catalog flash drives
 
 fat-cat-dir.awk
 --------------------------------------------------------------------------------
+fat cat
 
 fat-cat-dir.sh
 --------------------------------------------------------------------------------
@@ -10,7 +12,6 @@ fat-cat directory tree
 
 fat-cat-dsp.awk
 --------------------------------------------------------------------------------
-
 adds color to listing
 because sort does not like escape sequences
 
